@@ -2,11 +2,11 @@
 
 This repository contains the code and written solutions for the summative assignment in the COMP0086 module at UCL. The coursework focuses on probabilistic models, unsupervised learning, EM algorithms, latent variable models, and probabilistic inference methods like Gibbs sampling and MCMC.
 
-## 📘 Overview
+## Overview
 
 The assignment consists of multiple analytical and coding questions aimed at exploring key concepts in probabilistic machine learning. Topics range from modeling binary image data to implementing Expectation-Maximization and inference algorithms for real-world tasks.
 
-## 🔍 Contents and Question Topics
+## Contents and Question Topics
 
 ### Question 1: Modeling Binary Image Data (25 marks)
 - Explores modeling binary vectors using multivariate Bernoulli distributions.
